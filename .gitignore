@@ -5,3 +5,5 @@
 **/*.tfvars
 **/*override.tf
 **/*override.tf.json
+git add .
+git commit -m "Terraform EC2 project"
